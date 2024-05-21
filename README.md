@@ -12,6 +12,7 @@ When Pigs Fly is a side-scrolling game inspired by classics like Jetpack Joyride
 ## Playing The Game
 You'll need to have [Processing](https://processing.org/) installed, but once that's done just clone the repo. Once you've cloned it open up WhenPigsFly.pde and click the run button :)
 
+![Local Image](whenpigsfly.JPG)
 
 
 
