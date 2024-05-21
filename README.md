@@ -9,7 +9,8 @@ When Pigs Fly is a side-scrolling game inspired by classics like Jetpack Joyride
 - Use the **mouse** to control the dragon
 - Use the **left mouse button** to shoot fire bolts
 
-
+## Playing The Game
+You'll need to have [Processing](https://processing.org/) installed, but once that's done just clone the repo. Once you've cloned it open up WhenPigsFly.pde and click the run button :)
 
 
 
